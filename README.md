@@ -29,3 +29,6 @@ Built With
 Python - The programming language used.
 Pygame - The game library used.
 
+### Author
+Ayushman Tomar 
+Portfolio: https://ayushman-tomar.netlify.app
