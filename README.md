@@ -31,4 +31,5 @@ Pygame - The game library used.
 
 ### Author
 Ayushman Tomar 
+
 Portfolio: https://ayushman-tomar.netlify.app
