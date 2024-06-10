@@ -33,3 +33,6 @@ Pygame - The game library used.
 Ayushman Tomar 
 
 Portfolio: https://ayushman-tomar.netlify.app
+
+### ScreenShot of the game
+https://github.com/AyushmanTomar/WingBird/blob/main/game_over.png !screenshot of the game
