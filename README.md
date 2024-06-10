@@ -17,7 +17,7 @@ What things you need to install the software and how to install them:
 
 A step by step series of examples that tell you how to get a development environment running:
 
-1. Install Python 3.x from here.
+1. Install Python.
 2. Install Pygame via pip:
 ```bash
 pip install pygame
