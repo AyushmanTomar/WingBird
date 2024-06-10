@@ -34,5 +34,6 @@ Ayushman Tomar
 
 Portfolio: https://ayushman-tomar.netlify.app
 
-### ScreenShot of the game
-![screenshot of the game](https://github.com/AyushmanTomar/WingBird/blob/main/game_over.png) 
+### ScreenShots
+![screenshot 2](https://github.com/AyushmanTomar/WingBird/blob/main/welcome.png)
+![screenshot 1](https://github.com/AyushmanTomar/WingBird/blob/main/game_over.png) 
