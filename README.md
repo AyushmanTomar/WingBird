@@ -22,7 +22,7 @@ A step by step series of examples that tell you how to get a development environ
 ```bash
 pip install pygame
 ```
-3. Clone the repository: git clone https://github.com/yourusername/WingBird.git
+3. Clone the repository: git clone https://github.com/AyushmanTomar/WingBird.git
 4. Run the game: wingBird.py
 
 Built With
